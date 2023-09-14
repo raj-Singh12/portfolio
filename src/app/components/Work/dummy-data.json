@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "username": "Maveric Systems",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABn0lEQVR4AWNwL/AB49RZl9YAcX/qrMvcID6xGMWApDlX/6TMunQ5ae7VIJINSJl9OR5kQO7kM1dBhsQsurke5BpSXGAIMqC7cvP6PUG9eeXdRy/GLrz5GGQwUQZo5SwVBGloatz98JpNxWUQnly8dkHy7MsvE+Zf32FcskYMlwFwDFKYO/n0+0M+HcfumhX9v2FV9n5rxOQ+mGuAYZMH8hZOAzIW3mzIWnz76+bEOatvWZb9u2Rf/R9En3ZpWN1XvmFRxtyrb7MX3lxfsPCmGlYDvNoPGFh1HtzZED+r8aZ1xdfrdlX/YYa8syy505A6P9ukYcdtt9a9LVgNYA7q4WQI6jnv4NO+44JD9WOYAQ+A9Aqn2uvyPu23GQK7HjIF9diiGYDAIANACnc61h4BaQThia4N+7iCeq4wBPd+ZPDvjAKpw2fABJDCOS4N69/aVP5E0vwGZjNeAxiDenyBin/neLTM6HRtbGAJ6rkG1axFIBoR4QDSAKSPgbwD8jMsDRA2AGHIMZArQAaAEhhIjCQDgM5tA+KtMM2EDKAIAwAWbHqFh7tGogAAAABJRU5ErkJggg==",
+    "role": "Senior software Engineer",
+    "periods": "Aug 2022 : Present"
+  },
+  {
+    "id": "2",
+    "username": "Innoraft Solutions Pvt Ltd",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACXElEQVR4AW2TU9RdQQyF6z7Xtt2X2rZt27Zt2/5t27Zt2zjaTdbq1Fn3u8id7GT2makjQlEUpiExnnhLJBKVRBWRRHwgJhONeO3fhUxz4gaRT4BRVRXQNHqp/JspIO4SrUTd78U6Cq1VVE0UIzu/CL4RcUhIz0atJHGO/9MIIyHCxQ0URb2h1FZravAXqImu0Khrek4+pu66gA4zt6Dfkr3Ye+s1536f5j5vmQUmKKqaq5TlQXs2EqrFQbCAnp0HWk7ZAB1bd+jS914Ld2Ph4RvILy4VkxQS01ngDUEJGVJ2FDw9nMGLHupYoPeiPeBtcJi4+KLphDW4/9WcG4gpvrJAPAHK0n7j8drEAfQDT3StwF15bI6KqmpM2HYWozedRElZhZgijQUqhGmXXunBwTcUHF+sXdF59jbEpWYiNSsPL43sMHjlQXAuKSNbeCGzQCWBmtparDv3EG5BkeCw9wkBG2jvG4L5B6+hwdDFaDx8KXhbKZm50NRfAgkEJFnG2rMP8NrYHhwhsUnoMmc7uHPPBbuw49oLWLj7w8kvjJsJDzJY4B0BQAMbxI+usKQMSZk56D5vJz5aOIPdv/vFDOD4ZSCjwwKTiDweKZmKhq49ipWn7uKZgQ1aT90IU3LfIzgKG84/Ii9yhXlMETHzx0FSbhNgEa/QaEzffRFtp29C38V7EZGQCg4+keaufqisqhYCj4hGLMC0JAwIjQIl5RUIik4EF7M3XMB5Ps6SxL8VM6LN73dBiNwlCsUl+u3ACIq5syj+361sREwlvhBphETIRAahQ8wgGv9e+B2G4UEZEOjXGAAAAABJRU5ErkJggg==",
+    "role": "Frontend Developer",
+    "periods": "23rd Aug-21 : 29th July-22"
+  },
+  {
+    "id": "3",
+    "username": "InfoEdge India",
+    "img": "https://spotlight.tailwindui.com/_next/static/media/planetaria.ecd81ade.svg",
+    "role": "Associate Senior Designer",
+    "periods": "Aug-19 : 20th Aug-21"
+  },
+  {
+    "id": "4",
+    "username": "Mitiz Technology Pvt Ltd",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABE0lEQVR4AdTQAURDQRjA8RIAJhB0Vtk2N0QCgABApIDMJAQFAiRJChJgWwsICUnIQAASQuZRmEAyzyS5XnmbfP0/XhwBBht+Po77u/uGRGS4F30QqHyaFE4R4QEzWEO71jHtg8d0cXrWHuZzNrTWPntecauBPYjnBQ5S/TJSdqY1t5S/z05asfafpgbuIOgi9kLf1cjIcWx+5tezT1PjhQYX3iHooolrDQQQ3OAIAodNuFpsZD9Ir+p/cxl7ngRCjGHED1xgC4IPLOvUV5x0TEkDmYnCmRdI6ZkfuMS2Fyjq1D0QGZDAFXa8QAlOA5XIrCQBf4mjf4E63lDGBkI0sKCTQAuLSWCXiwHq+B0vSGwYZCYA/RNtorLp7/wAAAAASUVORK5CYII=",
+    "role": "UX/UI Designer/ HTML Developer",
+    "periods": "June-17 : July-19"
+  }
+]
