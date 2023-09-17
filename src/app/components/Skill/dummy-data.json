@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "skillTitle": "Programming Languages",
+    "skill": "React JS, React Native UI, Angular JS UI, Ionic UI"
+  },
+  {
+    "id": "2",
+    "skillTitle": "Scripting Languages",
+    "skill": "JavaScript"
+  },
+  {
+    "id": "3",
+    "skillTitle": "Mark-up Languages",
+    "skill": "HTML5, XHTML"
+  },
+  {
+    "id": "4",
+    "skillTitle": "UI Libraries",
+    "skill": "Bootstrap (3, 4, 5), Material UI, Core UI, Tailwind CSS"
+  },
+  {
+    "id": "5",
+    "skillTitle": "Style Sheet Language",
+    "skill": "CSS3, SCSS"
+  },
+  {
+    "id": "6",
+    "skillTitle": "Databases",
+    "skill": "Basic of MySQL, MongoDB"
+  },
+  {
+    "id": "7",
+    "skillTitle": "Software Packages",
+    "skill": "MS Office, Visual Studio (2008,2010,2012,2015)"
+  },
+  {
+    "id": "8",
+    "skillTitle": "Repository",
+    "skill": "GIT"
+  },
+  {
+    "id": "9",
+    "skillTitle": "Tools",
+    "skill": "Adobe Photoshop, Adobe illustrator"
+  }
+]

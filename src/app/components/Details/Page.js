@@ -1,6 +1,6 @@
 import Blog from "../Blog/Page";
-import Work from "../Work/Page";
 import Enquiry from "../Enquiry/Page";
+import Skill from "../Skill/Page";
 
 export default function Details() {
     return (
@@ -8,11 +8,11 @@ export default function Details() {
         <div class="mx-auto w-full max-w-7xl lg:px-8">
           <div class="relative px-4 sm:px-8 lg:px-12">
             <div class="mx-auto max-w-2xl lg:max-w-5xl">
-              <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
+              <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2 mb-9">
                 <Blog />
                 <div class="space-y-10 lg:pl-16 xl:pl-24">
-                  <Enquiry />
-                  <Work />
+                  <Skill />
+                  {/* <Enquiry /> */}
                 </div>
               </div>
             </div>
