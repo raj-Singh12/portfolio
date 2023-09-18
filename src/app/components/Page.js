@@ -13,7 +13,6 @@ export default function Components() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen flex-col justify-between">
-        {/* Header */}
         <Header />
         <Banner />
         <Details />
