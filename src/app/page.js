@@ -2,10 +2,10 @@
 import { ThemeProvider } from "next-themes";
 import Components from "./components/Page";
 
-function Home({ pageProps }) {
+function Home({ }) {
   return (
     <ThemeProvider attribute="class">
-      <Components {...pageProps} />
+      <Components />
     </ThemeProvider>
   );
 }
