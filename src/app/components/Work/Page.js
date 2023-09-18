@@ -11,7 +11,7 @@ export default function Work() {
       <ol className="mt-6 space-y-4">
         {Products.map((product) => {
           return (
-            <li key={product.index} className="flex gap-4">
+            <li key={product.id} className="flex gap-4">
               <div className="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
                 <Image
                   alt="Image"
@@ -21,7 +21,6 @@ export default function Work() {
                   decoding="async"
                   data-nimg="1"
                   className="h-7 w-7"
-                  // style="color:transparent"
                   src={product.img}
                 />
               </div>
@@ -40,8 +39,6 @@ export default function Work() {
                   aria-label="2019 until Present"
                 >
                   <time dateTime="2019">{product.periods}</time>
-                  {/* <span aria-hidden="true">—</span>
-                  <time dateTime="2023">Present</time> */}
                 </dd>
               </dl>
             </li>
