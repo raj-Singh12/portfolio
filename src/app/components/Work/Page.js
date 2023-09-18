@@ -1,5 +1,5 @@
-import Products from "./dummy-data.json";
-import Image from "next/image";
+// import Products from "./dummy-data.json";
+// import Image from "next/image";
 
 export default function Work() {
   return (
@@ -8,7 +8,7 @@ export default function Work() {
         <span className="ml-3">Work</span>
       </h2>
 
-      <ol className="mt-6 space-y-4">
+      {/* <ol className="mt-6 space-y-4">
         {Products.map((product) => {
           return (
             <li key={product.id} className="flex gap-4">
@@ -44,7 +44,7 @@ export default function Work() {
             </li>
           );
         })}
-      </ol>
+      </ol> */}
 
       <a
         className="inline-flex items-center gap-2 justify-center rounded-md py-2 px-3 text-sm outline-offset-2 transition active:transition-none bg-zinc-50 font-medium text-zinc-900 hover:bg-zinc-100 active:bg-zinc-100 active:text-zinc-900/60 dark:bg-zinc-800/50 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-zinc-50 dark:active:bg-zinc-800/50 dark:active:text-zinc-50/70 group mt-6 w-full"
