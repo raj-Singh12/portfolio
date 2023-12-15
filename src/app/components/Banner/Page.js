@@ -1,4 +1,5 @@
 import ImageCart from "./ImageCart/Page";
+import Project from "./Project/Page";
 import { motion, AnimatePresence } from "framer-motion";
 
 export default function Banner() {
@@ -54,7 +55,7 @@ export default function Banner() {
               </div>
             </div>
           </div>
-          <ImageCart />
+          <Project />
         </motion.main>
       </AnimatePresence>
     </>

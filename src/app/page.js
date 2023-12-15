@@ -6,6 +6,7 @@ function Home({ }) {
   return (
     <ThemeProvider attribute="class">
       <Components />
+      
     </ThemeProvider>
   );
 }
