@@ -7,7 +7,28 @@
     @apply h-7 hover:scale-125 transition-transform duration-200 ease-out cursor-pointer
   }
 }
+/* width */
+::-webkit-scrollbar {
+  width: 2px;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(45 212 191);
+  border-radius: 1px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(45 212 191);
+
+}
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
