@@ -1,9 +1,10 @@
 "use client";
-import Image from "next/image";
-import React, { useEffect, useState } from "react";
+// import Image from "next/image";
+// import { BeakerIcon, MoonIcon, SunIcon } from "@heroicons/react/24/solid";
 
-import { BeakerIcon, MoonIcon, SunIcon } from "@heroicons/react/24/solid";
+import React, { useEffect, useState } from "react";
 import ThemeButton from "../ThemeButton/Page";
+import Link from "next/link";
 
 export default function Header() {
   const [mounted, setMounted] = useState(false);
@@ -16,11 +17,13 @@ export default function Header() {
       <div className="p-5">
         <div className="flex items-center justify-between max-w-6xl mx-4 xl:mx-auto">
           <div className="">
-            <img
-              src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
-              alt="user-image"
-              className="h-10 rounded-full cursor-pointer"
-            />
+            <Link href="/">
+              <img
+                src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg"
+                alt="user-image"
+                className="h-10 rounded-full cursor-pointer"
+              />
+            </Link>
           </div>
 
           <div className="flex flex-1 justify-end md:justify-center">
@@ -41,12 +44,12 @@ export default function Header() {
               <ul className="flex rounded-full bg-white/90 px-3 text-sm font-medium text-zinc-800 shadow-lg shadow-zinc-800/5 ring-1 ring-zinc-900/5 backdrop-blur dark:bg-zinc-800/90 dark:text-zinc-200 dark:ring-white/10">
                 
                 <li>
-                  <a
+                  <Link
                     className="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400"
                     href="/projects"
                   >
                     Projects
-                  </a>
+                  </Link>
                 </li>
                 
               </ul>
